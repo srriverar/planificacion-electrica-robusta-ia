@@ -1,0 +1,836 @@
+{
+ "Bogotá": {
+  "n": 0,
+  "total_mw": 0.0,
+  "known_mw": 0.0,
+  "n_known": 0,
+  "by_source": {},
+  "top": []
+ },
+ "Londres": {
+  "n": 31,
+  "total_mw": 1076.3,
+  "known_mw": 1076.3,
+  "n_known": 23,
+  "by_source": {
+   "biomass": {
+    "n": 13,
+    "mw": 222.7
+   },
+   "gas": {
+    "n": 10,
+    "mw": 632.9
+   },
+   "oil": {
+    "n": 1,
+    "mw": 117.6
+   },
+   "other": {
+    "n": 4,
+    "mw": 99.0
+   },
+   "solar": {
+    "n": 3,
+    "mw": 4.1
+   }
+  },
+  "top": [
+   {
+    "name": "Enfield Power Station",
+    "source": "gas",
+    "mw": 442.0
+   },
+   {
+    "name": "Taylors Lane Power Station",
+    "source": "gas",
+    "mw": 132.0
+   },
+   {
+    "name": "Greenwich Power Station",
+    "source": "oil",
+    "mw": 117.6
+   },
+   {
+    "name": "Clay Tye BESS",
+    "source": "other",
+    "mw": 99.0
+   },
+   {
+    "name": "Belvedere Incinerator",
+    "source": "biomass",
+    "mw": 72.0
+   },
+   {
+    "name": "EcoPark",
+    "source": "biomass",
+    "mw": 55.0
+   },
+   {
+    "name": "Croydon Power plant",
+    "source": "gas",
+    "mw": 50.0
+   },
+   {
+    "name": "South East London Combined Heat & Power",
+    "source": "biomass",
+    "mw": 35.0
+   },
+   {
+    "name": "Beddington Energy Recovery Facility",
+    "source": "biomass",
+    "mw": 26.0
+   },
+   {
+    "name": "King's Yard Energy Centre",
+    "source": "biomass",
+    "mw": 10.0
+   }
+  ]
+ },
+ "Nueva York": {
+  "n": 28,
+  "total_mw": 8470.7,
+  "known_mw": 8470.7,
+  "n_known": 27,
+  "by_source": {
+   "gas": {
+    "n": 19,
+    "mw": 7741.4
+   },
+   "oil": {
+    "n": 4,
+    "mw": 718.1
+   },
+   "other": {
+    "n": 2,
+    "mw": 7.5
+   },
+   "solar": {
+    "n": 3,
+    "mw": 3.7
+   }
+  },
+  "top": [
+   {
+    "name": "Ravenswood Generating Station",
+    "source": "gas",
+    "mw": 2030.0
+   },
+   {
+    "name": "Astoria Energy Combined Cycle Plant",
+    "source": "gas",
+    "mw": 1245.0
+   },
+   {
+    "name": "Astoria Generating Station",
+    "source": "gas",
+    "mw": 958.0
+   },
+   {
+    "name": "Arthur Kill Power Plant",
+    "source": "gas",
+    "mw": 895.5
+   },
+   {
+    "name": "Con Edison East River Generating Station",
+    "source": "gas",
+    "mw": 716.0
+   },
+   {
+    "name": "Gowanus Power Plant",
+    "source": "oil",
+    "mw": 640.0
+   },
+   {
+    "name": "New York Power Authority",
+    "source": "gas",
+    "mw": 528.0
+   },
+   {
+    "name": "Narrows Gas Turbines Generating",
+    "source": "gas",
+    "mw": 352.0
+   },
+   {
+    "name": "Building 202",
+    "source": "gas",
+    "mw": 296.0
+   },
+   {
+    "name": "Kennedy International Airport Cogen",
+    "source": "gas",
+    "mw": 125.0
+   }
+  ]
+ },
+ "Teherán": {
+  "n": 3,
+  "total_mw": 297.5,
+  "known_mw": 297.5,
+  "n_known": 2,
+  "by_source": {
+   "gas": {
+    "n": 2,
+    "mw": 297.5
+   },
+   "solar": {
+    "n": 1,
+    "mw": 0.0
+   }
+  },
+  "top": [
+   {
+    "name": "نیروگاه بعثت",
+    "source": "gas",
+    "mw": 247.5
+   },
+   {
+    "name": "نیروگاه طرشت (شهید فیروزی)",
+    "source": "gas",
+    "mw": 50.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   }
+  ]
+ },
+ "Bangkok": {
+  "n": 13,
+  "total_mw": 5.0,
+  "known_mw": 5.0,
+  "n_known": 1,
+  "by_source": {
+   "biomass": {
+    "n": 4,
+    "mw": 0.0
+   },
+   "other": {
+    "n": 3,
+    "mw": 0.0
+   },
+   "solar": {
+    "n": 6,
+    "mw": 5.0
+   }
+  },
+  "top": [
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 5.0
+   },
+   {
+    "name": "Lat Krabang power station",
+    "source": "other",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "biomass",
+    "mw": 0.0
+   },
+   {
+    "name": "โรงไฟฟ้าแสงอาทิตย์บี.กริมโซลาร์เพาเวอร์",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "การไฟฟ้านครหลวงเขตสามเสน",
+    "source": "other",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "โรงกำจัดขยะผลิตไฟฟ้ำเพื่อสิ่งแวดล้อมหนองแขม",
+    "source": "biomass",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "other",
+    "mw": 0.0
+   },
+   {
+    "name": "โรงจำกัดขยะมูลฝอยชุมชน",
+    "source": "biomass",
+    "mw": 0.0
+   }
+  ]
+ },
+ "Lima": {
+  "n": 49,
+  "total_mw": 4672.8,
+  "known_mw": 4672.8,
+  "n_known": 24,
+  "by_source": {
+   "biomass": {
+    "n": 1,
+    "mw": 4.0
+   },
+   "gas": {
+    "n": 9,
+    "mw": 3533.3
+   },
+   "hydro": {
+    "n": 36,
+    "mw": 1135.5
+   },
+   "other": {
+    "n": 2,
+    "mw": 0.0
+   },
+   "solar": {
+    "n": 1,
+    "mw": 0.0
+   }
+  },
+  "top": [
+   {
+    "name": "Central Termoeléctrica Kallpa",
+    "source": "gas",
+    "mw": 908.0
+   },
+   {
+    "name": "Central Termoeléctrica Chilca Uno",
+    "source": "gas",
+    "mw": 862.0
+   },
+   {
+    "name": "Planta Termoeléctrica Fenix Power",
+    "source": "gas",
+    "mw": 570.0
+   },
+   {
+    "name": "Central Termo Eléctrica Santa Rosa",
+    "source": "gas",
+    "mw": 414.6
+   },
+   {
+    "name": "Central Térmica Las Flores",
+    "source": "gas",
+    "mw": 325.0
+   },
+   {
+    "name": "Central Termoeléctrica Santo Domingo de los Olleros",
+    "source": "gas",
+    "mw": 300.0
+   },
+   {
+    "name": "Central Hidroeléctrica Huinco",
+    "source": "hydro",
+    "mw": 270.0
+   },
+   {
+    "name": "Central Hidroeléctrica El Platanal",
+    "source": "hydro",
+    "mw": 220.0
+   },
+   {
+    "name": "Central Hidroeléctrica Cheves",
+    "source": "hydro",
+    "mw": 171.7
+   },
+   {
+    "name": "Central Hidroeléctrica Matucana",
+    "source": "hydro",
+    "mw": 120.0
+   }
+  ]
+ },
+ "Santiago": {
+  "n": 0,
+  "total_mw": 0.0,
+  "known_mw": 0.0,
+  "n_known": 0,
+  "by_source": {},
+  "top": []
+ },
+ "Río de Janeiro": {
+  "n": 8,
+  "total_mw": 840.0,
+  "known_mw": 840.0,
+  "n_known": 2,
+  "by_source": {
+   "gas": {
+    "n": 2,
+    "mw": 840.0
+   },
+   "other": {
+    "n": 1,
+    "mw": 0.0
+   },
+   "solar": {
+    "n": 5,
+    "mw": 0.0
+   }
+  },
+  "top": [
+   {
+    "name": "Usina Termelétrica Ternium Brasil",
+    "source": "gas",
+    "mw": 490.0
+   },
+   {
+    "name": "Usina Termelétrica de Santa Cruz",
+    "source": "gas",
+    "mw": 350.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "other",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   }
+  ]
+ },
+ "Madrid": {
+  "n": 4,
+  "total_mw": 0.0,
+  "known_mw": 0.0,
+  "n_known": 0,
+  "by_source": {
+   "other": {
+    "n": 2,
+    "mw": 0.0
+   },
+   "solar": {
+    "n": 2,
+    "mw": 0.0
+   }
+  },
+  "top": [
+   {
+    "name": "Central Térmica de la Ciudad Universitaria de Madrid",
+    "source": "other",
+    "mw": 0.0
+   },
+   {
+    "name": "Central Térmica Meseta de Orcasitas",
+    "source": "other",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   }
+  ]
+ },
+ "Toronto": {
+  "n": 6,
+  "total_mw": 1120.5,
+  "known_mw": 1120.5,
+  "n_known": 5,
+  "by_source": {
+   "biomass": {
+    "n": 1,
+    "mw": 0.5
+   },
+   "gas": {
+    "n": 4,
+    "mw": 1120.0
+   },
+   "solar": {
+    "n": 1,
+    "mw": 0.0
+   }
+  },
+  "top": [
+   {
+    "name": "Portlands Energy Centre",
+    "source": "gas",
+    "mw": 550.0
+   },
+   {
+    "name": "Portlands Energy Centre",
+    "source": "gas",
+    "mw": 550.0
+   },
+   {
+    "name": "York University Power Station",
+    "source": "gas",
+    "mw": 10.0
+   },
+   {
+    "name": "Central Utilities",
+    "source": "gas",
+    "mw": 10.0
+   },
+   {
+    "name": "ZooShare Biogas Facility",
+    "source": "biomass",
+    "mw": 0.5
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   }
+  ]
+ },
+ "Singapur": {
+  "n": 36,
+  "total_mw": 11917.5,
+  "known_mw": 11917.5,
+  "n_known": 26,
+  "by_source": {
+   "biomass": {
+    "n": 7,
+    "mw": 526.5
+   },
+   "gas": {
+    "n": 10,
+    "mw": 11093.4
+   },
+   "other": {
+    "n": 3,
+    "mw": 202.4
+   },
+   "solar": {
+    "n": 16,
+    "mw": 95.2
+   }
+  },
+  "top": [
+   {
+    "name": "Senoko Power Station",
+    "source": "gas",
+    "mw": 2807.0
+   },
+   {
+    "name": "Pulau Seraya Power Station",
+    "source": "gas",
+    "mw": 2222.0
+   },
+   {
+    "name": "Tuas Power Plant",
+    "source": "gas",
+    "mw": 1875.9
+   },
+   {
+    "name": "Keppel Merlimau Cogen Power Plant",
+    "source": "gas",
+    "mw": 1310.0
+   },
+   {
+    "name": "PacificLight Power Station",
+    "source": "gas",
+    "mw": 800.0
+   },
+   {
+    "name": "Sembcorp Cogen @ Sakra Power Station",
+    "source": "gas",
+    "mw": 785.0
+   },
+   {
+    "name": "Sembcorp Cogen @ Banyan",
+    "source": "gas",
+    "mw": 403.8
+   },
+   {
+    "name": "Tuaspring CCGT Power Plant",
+    "source": "gas",
+    "mw": 395.7
+   },
+   {
+    "name": "ExxonMobil Power Station",
+    "source": "gas",
+    "mw": 314.0
+   },
+   {
+    "name": "Jurong Power Station",
+    "source": "gas",
+    "mw": 180.0
+   }
+  ]
+ },
+ "Nairobi": {
+  "n": 2,
+  "total_mw": 52.5,
+  "known_mw": 52.5,
+  "n_known": 1,
+  "by_source": {
+   "oil": {
+    "n": 1,
+    "mw": 52.5
+   },
+   "solar": {
+    "n": 1,
+    "mw": 0.0
+   }
+  },
+  "top": [
+   {
+    "name": "Iberafrica Power Station",
+    "source": "oil",
+    "mw": 52.5
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   }
+  ]
+ },
+ "Johannesburgo": {
+  "n": 17,
+  "total_mw": 154.7,
+  "known_mw": 154.7,
+  "n_known": 6,
+  "by_source": {
+   "oil": {
+    "n": 3,
+    "mw": 150.0
+   },
+   "solar": {
+    "n": 14,
+    "mw": 4.7
+   }
+  },
+  "top": [
+   {
+    "name": "John Ware Gas Turbine Power Station",
+    "source": "oil",
+    "mw": 50.0
+   },
+   {
+    "name": "Kazerne Gas Turbine Power Station",
+    "source": "oil",
+    "mw": 50.0
+   },
+   {
+    "name": "Cottesloe Gas Turbine Power Station",
+    "source": "oil",
+    "mw": 50.0
+   },
+   {
+    "name": "Modderfontein",
+    "source": "solar",
+    "mw": 4.0
+   },
+   {
+    "name": "Amarasta Microgrid",
+    "source": "solar",
+    "mw": 0.5
+   },
+   {
+    "name": "Knightsbridge Office Park",
+    "source": "solar",
+    "mw": 0.2
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   }
+  ]
+ },
+ "Hanói": {
+  "n": 52,
+  "total_mw": 0.0,
+  "known_mw": 0.0,
+  "n_known": 0,
+  "by_source": {
+   "hydro": {
+    "n": 1,
+    "mw": 0.0
+   },
+   "other": {
+    "n": 1,
+    "mw": 0.0
+   },
+   "solar": {
+    "n": 50,
+    "mw": 0.0
+   }
+  },
+  "top": [
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   }
+  ]
+ },
+ "Casablanca": {
+  "n": 3,
+  "total_mw": 120.0,
+  "known_mw": 120.0,
+  "n_known": 1,
+  "by_source": {
+   "oil": {
+    "n": 1,
+    "mw": 120.0
+   },
+   "solar": {
+    "n": 2,
+    "mw": 0.0
+   }
+  },
+  "top": [
+   {
+    "name": "Centrale thermique de Casablanca",
+    "source": "oil",
+    "mw": 120.0
+   },
+   {
+    "name": "(sin nombre)",
+    "source": "solar",
+    "mw": 0.0
+   },
+   {
+    "name": "Centrale photovoltaïque Zénith",
+    "source": "solar",
+    "mw": 0.0
+   }
+  ]
+ },
+ "Dar es Salaam": {
+  "n": 6,
+  "total_mw": 963.0,
+  "known_mw": 963.0,
+  "n_known": 5,
+  "by_source": {
+   "gas": {
+    "n": 5,
+    "mw": 863.0
+   },
+   "oil": {
+    "n": 1,
+    "mw": 100.0
+   }
+  },
+  "top": [
+   {
+    "name": "Kinyerezi Gas Plant",
+    "source": "gas",
+    "mw": 398.0
+   },
+   {
+    "name": "Ubungo Power Plant",
+    "source": "gas",
+    "mw": 231.0
+   },
+   {
+    "name": "TANESCO",
+    "source": "gas",
+    "mw": 189.0
+   },
+   {
+    "name": "IPTL Tegeta Diesel Power Station",
+    "source": "oil",
+    "mw": 100.0
+   },
+   {
+    "name": "Tegeta Thermal Power Station",
+    "source": "gas",
+    "mw": 45.0
+   },
+   {
+    "name": "Ubungo II Power Plant",
+    "source": "gas",
+    "mw": 0.0
+   }
+  ]
+ }
+}

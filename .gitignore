@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Streamlit / resultados locales
+.streamlit/secrets.toml
+results/run*/
+*.sqlite
+*.db
+
+# Entrenamientos locales grandes (los artefactos demo SÍ se versionan:
+# models/dqn_case5.npz y results/rl_eval.json)
+*.log
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+
+# grid2poster (build-time): caché OSM y temas copiados al cwd
+cache/
+themes/
+
+# capas solares intermedias (build-time; los stats JSON y PNG sí se versionan)
+data/osm_solar/
+data/solar_merged/

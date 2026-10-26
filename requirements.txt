@@ -1,0 +1,28 @@
+# ⚡ Planificación Robusta de Sistemas Eléctricos Urbanos con IA
+# Versiones probadas juntas en Python 3.12 y 3.13.
+#
+# ☁️ STREAMLIT COMMUNITY CLOUD: el panel IGNORA runtime.txt desde 2026 y por defecto
+#    usa Python 3.13/3.14. ANTES de desplegar: Manage app → Settings → Advanced →
+#    "Python version" = 3.12 (estas versiones fijadas tienen wheels hasta 3.13; en
+#    3.14 pip intenta compilar de fuente y el build queda colgado "in the oven").
+#
+# NOTA DE COMPATIBILIDAD IMPORTANTE:
+#  - pypsa está FIJADO en 1.2.4 porque pypsa>=1.3 exige pandas>=3.0, y grid2op
+#    (vía pandapower) requiere pandas<3. Esta combinación (pypsa 1.2.4 + pandas 2.3.x)
+#    es la que permite tener PyPSA y Grid2Op en el mismo entorno.
+
+streamlit==1.66.1
+plotly==6.0.1
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.6.1
+
+# Planificación de sistemas eléctricos (expansión + despacho óptimo)
+pypsa==1.2.4
+highspy>=1.7
+
+# Aprendizaje por refuerzo sobre redes eléctricas (L2RPN)
+grid2op==1.12.6
+
+# Co-simulación de data centers / microredes energy-aware
+vessim==0.16.0

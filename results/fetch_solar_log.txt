@@ -1,0 +1,130 @@
+Using cached boundary for Londres, Reino Unido
+[ 1/15] Londres         -> OK 17146 generadores solares,     655.0 MWp (68 con etiqueta) en 241s
+Using cached boundary for Nueva York, Estados Unidos
+[ 2/15] Nueva York      -> OK  9701 generadores solares,     250.0 MWp (2 con etiqueta) en 682s
+Using cached boundary for Teherán, Irán
+[ 3/15] Teherán         -> OK     0 generadores solares,       0.0 MWp (0 con etiqueta) en 41s
+Using cached boundary for Bangkok, Tailandia
+[ 4/15] Bangkok         -> OK   118 generadores solares,       2.4 MWp (0 con etiqueta) en 40s
+Using cached boundary for Lima, Perú
+[ 5/15] Lima            -> OK     0 generadores solares,       0.0 MWp (0 con etiqueta) en 43s
+Using cached boundary for Santiago, Chile
+[ 6/15] Santiago        -> OK     4 generadores solares,       0.1 MWp (0 con etiqueta) en 173s
+Using cached boundary for Río de Janeiro, Brasil
+[ 7/15] Río de Janeiro  -> OK   249 generadores solares,       5.0 MWp (0 con etiqueta) en 368s
+Using cached boundary for Madrid, España
+[ 8/15] Madrid          -> OK    99 generadores solares,       2.0 MWp (0 con etiqueta) en 47s
+Using cached boundary for Toronto, Canadá
+[ 9/15] Toronto         -> OK  2537 generadores solares,      52.4 MWp (4 con etiqueta) en 48s
+Using cached boundary for Singapur
+[10/15] Singapur        -> OK   299 generadores solares,      13.7 MWp (4 con etiqueta) en 231s
+Using cached boundary for Nairobi, Kenia
+[11/15] Nairobi         -> OK    69 generadores solares,       1.4 MWp (0 con etiqueta) en 310s
+Using cached boundary for City of Johannesburg Metropolitan Municipality
+[12/15] Johannesburgo   -> OK  6281 generadores solares,     125.6 MWp (0 con etiqueta) en 110s
+Using cached boundary for Hanói, Vietnam
+[13/15] Hanói           -> OK     2 generadores solares,       0.0 MWp (0 con etiqueta) en 45s
+Using cached boundary for Casablanca, Marruecos
+[14/15] Casablanca      -> OK     1 generadores solares,       0.0 MWp (0 con etiqueta) en 42s
+Using cached boundary for Dar es Salaam, Tanzania
+[15/15] Dar es Salaam   -> OK    32 generadores solares,       0.6 MWp (0 con etiqueta) en 479s
+Using cached boundary for Bogotá, Colombia
+Using cached power features for Bogotá, Colombia
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 401.95step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 92.15step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 119.50step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 152.07step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 186.96step/s]
+PV layer: 10,669 features, 188,312 MWp (mwp)
+PV layer: 188,312 MWp lies outside the boundary and is not drawn
+Rendering 284 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/3 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 3/3 [00:00<00:00, 134.80group/s]
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/bogota.png
+[ 1/16] solar   Bogotá          -> OK (244 KB, 1s) OSM+GPPD
+Using cached boundary for Londres, Reino Unido
+Using cached power features for Londres, Reino Unido
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 226.24step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 105.54step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 132.07step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 165.94step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 203.25step/s]
+PV layer: 27,811 features, 188,967 MWp (mwp)
+PV layer: 188,296 MWp lies outside the boundary and is not drawn
+Rendering 381 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/4 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 4/4 [00:00<00:00, 113.75group/s]
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/londres.png
+[ 2/16] solar   Londres         -> OK (432 KB, 1s) OSM+GPPD
+Using cached boundary for Nueva York, Estados Unidos
+Using cached power features for Nueva York, Estados Unidos
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 692.36step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 500.24step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 403.73step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 482.27step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 571.73step/s]
+PV layer: 20,366 features, 188,562 MWp (mwp)
+PV layer: 188,270 MWp lies outside the boundary and is not drawn
+Rendering 76 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/4 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 4/4 [00:00<00:00, 217.32group/s]
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/nueva_york.png
+[ 3/16] solar   Nueva York      -> OK (432 KB, 0s) OSM+GPPD
+[ 4/16] solar   Teherán         -> EXCEPCIÓN EmptyDataError: No columns to parse from file
+Using cached boundary for Bangkok, Tailandia
+Using cached power features for Bangkok, Tailandia
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 607.17step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 300.17step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 261.62step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 318.86step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 378.93step/s]
+PV layer: 10,783 features, 188,315 MWp (mwp)
+PV layer: 188,307 MWp lies outside the boundary and is not drawn
+Rendering 73 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/3 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 3/3 [00:00<00:00, 164.30group/s]
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/bangkok.png
+[ 5/16] solar   Bangkok         -> OK (251 KB, 0s) OSM+GPPD
+[ 6/16] solar   Lima            -> EXCEPCIÓN EmptyDataError: No columns to parse from file
+Using cached boundary for Santiago, Chile
+Using cached power features for Santiago, Chile
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 988.52step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 675.63step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 501.41step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 607.36step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 720.25step/s]
+PV layer: 10,669 features, 188,312 MWp (mwp)
+PV layer: 188,312 MWp lies outside the boundary and is not drawn
+Rendering 4 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/1 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 1/1 [00:00<00:00, 208.02group/s]
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/santiago.png
+[ 7/16] solar   Santiago        -> OK (165 KB, 0s) OSM+GPPD
+Using cached boundary for Río de Janeiro, Brasil
+Using cached power features for Río de Janeiro, Brasil
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 271.34step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 36.91step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 51.68step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 67.82step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 84.19step/s]
+PV layer: 10,914 features, 188,317 MWp (mwp)
+PV layer: 188,312 MWp lies outside the boundary and is not drawn
+Rendering 162 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/3 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 3/3 [00:00<00:00, 93.95group/s]
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/rio_de_janeiro.png
+[ 8/16] solar   Río de Janeiro  -> OK (226 KB, 1s) OSM+GPPD
+Using cached boundary for Madrid, España
+Using cached power features for Madrid, España
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 645.87step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 233.02step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 246.56step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 304.57step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 368.67step/s]
+PV layer: 10,764 features, 188,314 MWp (mwp)
+PV layer: 188,312 MWp lies outside the boundary and is not drawn
+Rendering 198 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/4 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 4/4 [00:00<00:00, 160.93group/s]
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/madrid.png
+[ 9/16] solar   Madrid          -> OK (267 KB, 0s) OSM+GPPD
+Using cached boundary for Toronto, Canadá
+Using cached power features for Toronto, Canadá
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 399.57step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 250.27step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 215.20step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 260.39step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 308.57step/s]
+PV layer: 13,202 features, 188,365 MWp (mwp)
+PV layer: 188,312 MWp lies outside the boundary and is not drawn
+Rendering 187 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/4 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 4/4 [00:00<00:00, 200.48group/s]
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/toronto.png
+[10/16] solar   Toronto         -> OK (492 KB, 1s) OSM+GPPD
+Using cached boundary for Singapur
+Using cached power features for Singapur
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 1019.02step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 866.32step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 590.03step/s]/home/user/grid2poster/prepare.py:244: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  clipped["sort_voltage"] = clipped["voltage_kv"].fillna(0)
+Sorting:  80%|████████  | 4/5 [00:00<00:00, 675.14step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 792.48step/s]
+PV layer: 10,964 features, 188,326 MWp (mwp)
+PV layer: 188,312 MWp lies outside the boundary and is not drawn
+Rendering 1 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/1 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 1/1 [00:00<00:00, 230.57group/s]
+/home/user/grid2poster/render.py:417: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  high_voltage_length_km = float(lines.loc[lines["voltage_kv"].fillna(0) >= mid_kv].geometry.length.sum()) / 1000.0
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/singapur.png
+[11/16] solar   Singapur        -> OK (224 KB, 0s) OSM+GPPD
+Using cached boundary for Nairobi, Kenia
+Using cached power features for Nairobi, Kenia
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 855.63step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 443.19step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 418.73step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 508.09step/s]         Sorting: 100%|██████████| 5/5 [00:00<00:00, 607.62step/s]
+PV layer: 10,734 features, 188,314 MWp (mwp)
+PV layer: 188,312 MWp lies outside the boundary and is not drawn
+Rendering 24 line segments with theme 'Paper Grid'
+Rendering line groups:   0%|          | 0/3 [00:00<?, ?group/s]Rendering line groups: 100%|██████████| 3/3 [00:00<00:00, 227.29group/s]
+Saved poster: /home/user/planificacion-electrica-robusta-ia/assets/city_maps/solar/nairobi.png
+[12/16] solar   Nairobi         -> OK (194 KB, 0s) OSM+GPPD
+Using cached boundary for City of Johannesburg Metropolitan Municipality
+Using cached power features for City of Johannesburg Metropolitan Municipality
+Preparing lines:   0%|          | 0/5 [00:00<?, ?step/s]Reprojecting:   0%|          | 0/5 [00:00<?, ?step/s]   Clipping:  20%|██        | 1/5 [00:00<00:00, 196.23step/s]Exploding:  40%|████      | 2/5 [00:00<00:00, 73.34step/s]Parsing voltages:  60%|██████    | 3/5 [00:00<00:00, 88.22step/s]Sorting:  80%|████████  | 4/5 [00:00<00:00, 108.17step/s]        Sorting: 100%|██████████| 5/5 [00:00<00:00, 132.39step/s]
+PV layer: 2,600 features, 9,756 MWp (mwp_best)

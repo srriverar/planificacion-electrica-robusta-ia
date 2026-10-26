@@ -1,0 +1,247 @@
+{
+ "Bogotá": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10669,
+  "mwp_nacional": null,
+  "n_ciudad": 4,
+  "mwp_ciudad": 0.08,
+  "desglose": {
+   "osm": 0.08
+  },
+  "n_desglose": {
+   "osm": 4
+  }
+ },
+ "Londres": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 27811,
+  "mwp_nacional": null,
+  "n_ciudad": 17153,
+  "mwp_ciudad": 671.77,
+  "desglose": {
+   "gppd": 16.73,
+   "osm": 655.04
+  },
+  "n_desglose": {
+   "gppd": 7,
+   "osm": 17146
+  }
+ },
+ "Nueva York": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 20366,
+  "mwp_nacional": null,
+  "n_ciudad": 9719,
+  "mwp_ciudad": 292.31,
+  "desglose": {
+   "gppd": 42.3,
+   "osm": 250.0
+  },
+  "n_desglose": {
+   "gppd": 18,
+   "osm": 9701
+  }
+ },
+ "Teherán": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10665,
+  "mwp_nacional": null,
+  "n_ciudad": 0,
+  "mwp_ciudad": 0.0,
+  "desglose": {},
+  "n_desglose": {}
+ },
+ "Bangkok": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10783,
+  "mwp_nacional": null,
+  "n_ciudad": 123,
+  "mwp_ciudad": 7.36,
+  "desglose": {
+   "gppd": 5.0,
+   "osm": 2.36
+  },
+  "n_desglose": {
+   "gppd": 5,
+   "osm": 118
+  }
+ },
+ "Lima": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10665,
+  "mwp_nacional": null,
+  "n_ciudad": 0,
+  "mwp_ciudad": 0.0,
+  "desglose": {},
+  "n_desglose": {}
+ },
+ "Santiago": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10669,
+  "mwp_nacional": null,
+  "n_ciudad": 4,
+  "mwp_ciudad": 0.08,
+  "desglose": {
+   "osm": 0.08
+  },
+  "n_desglose": {
+   "osm": 4
+  }
+ },
+ "Río de Janeiro": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10914,
+  "mwp_nacional": null,
+  "n_ciudad": 249,
+  "mwp_ciudad": 4.98,
+  "desglose": {
+   "osm": 4.98
+  },
+  "n_desglose": {
+   "osm": 249
+  }
+ },
+ "Madrid": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10764,
+  "mwp_nacional": null,
+  "n_ciudad": 99,
+  "mwp_ciudad": 1.98,
+  "desglose": {
+   "osm": 1.98
+  },
+  "n_desglose": {
+   "osm": 99
+  }
+ },
+ "Toronto": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 13202,
+  "mwp_nacional": null,
+  "n_ciudad": 2537,
+  "mwp_ciudad": 52.39,
+  "desglose": {
+   "osm": 52.39
+  },
+  "n_desglose": {
+   "osm": 2537
+  }
+ },
+ "Singapur": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10964,
+  "mwp_nacional": null,
+  "n_ciudad": 299,
+  "mwp_ciudad": 13.65,
+  "desglose": {
+   "osm": 13.65
+  },
+  "n_desglose": {
+   "osm": 299
+  }
+ },
+ "Nairobi": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10734,
+  "mwp_nacional": null,
+  "n_ciudad": 69,
+  "mwp_ciudad": 1.38,
+  "desglose": {
+   "osm": 1.38
+  },
+  "n_desglose": {
+   "osm": 69
+  }
+ },
+ "Johannesburgo": {
+  "kind": "earthpv",
+  "pais": "Sudáfrica",
+  "tier": "Bronze",
+  "archivo": "earthpv_south_africa.parquet",
+  "n_features": 30,
+  "mwp_nacional": 9755.6,
+  "n_ciudad": 14,
+  "mwp_ciudad": 215.91,
+  "desglose": {
+   "earthpv": 215.91
+  }
+ },
+ "Hanói": {
+  "kind": "earthpv",
+  "pais": "Vietnam",
+  "tier": "Bronze",
+  "archivo": "earthpv_vietnam.parquet",
+  "n_features": 44,
+  "mwp_nacional": 8860.5,
+  "n_ciudad": 18,
+  "mwp_ciudad": 38.13,
+  "desglose": {
+   "earthpv": 38.13
+  }
+ },
+ "Casablanca": {
+  "kind": "earthpv",
+  "pais": "Marruecos",
+  "tier": "Bronze",
+  "archivo": "earthpv_morocco.parquet",
+  "n_features": 5,
+  "mwp_nacional": 411.2,
+  "n_ciudad": 1,
+  "mwp_ciudad": 0.09,
+  "desglose": {
+   "earthpv": 0.09
+  }
+ },
+ "Dar es Salaam": {
+  "kind": "osm+gppd",
+  "pais": null,
+  "tier": null,
+  "archivo": "osm_solar + gppd_solar",
+  "n_features": 10697,
+  "mwp_nacional": null,
+  "n_ciudad": 32,
+  "mwp_ciudad": 0.64,
+  "desglose": {
+   "osm": 0.64
+  },
+  "n_desglose": {
+   "osm": 32
+  }
+ }
+}

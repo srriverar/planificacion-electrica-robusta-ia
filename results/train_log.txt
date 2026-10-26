@@ -1,0 +1,54 @@
+Entrenando DQN: 250 episodios × máx 500 pasos
+/usr/local/lib/python3.13/site-packages/grid2op/MakeEnv/Make.py:479: UserWarning: You are using a development environment. This environment is not intended for training agents. It might not be up to date and its primary use if for tests (hence the "test=True" you passed as argument). Use at your own risk.
+  warnings.warn(_MAKE_DEV_ENV_WARN)
+ep   5 | chronic 01 | alive   14 | R     64.0 | eps 1.00 | loss None
+ep  10 | chronic 02 | alive    1 | R      0.0 | eps 1.00 | loss None
+ep  15 | chronic 09 | alive   30 | R    192.3 | eps 1.00 | loss None
+ep  20 | chronic 06 | alive   29 | R    140.0 | eps 1.00 | loss None
+ep  25 | chronic 08 | alive   21 | R    136.2 | eps 1.00 | loss None
+ep  30 | chronic 08 | alive    9 | R     56.3 | eps 1.00 | loss None
+ep  35 | chronic 19 | alive   37 | R    265.3 | eps 1.00 | loss None
+ep  40 | chronic 13 | alive   20 | R    108.3 | eps 1.00 | loss 5.4693
+ep  45 | chronic 14 | alive    5 | R     15.5 | eps 0.98 | loss 1.1745
+ep  50 | chronic 12 | alive    7 | R     25.0 | eps 0.95 | loss 0.6446
+ep  55 | chronic 11 | alive   61 | R    442.4 | eps 0.92 | loss 0.6759
+ep  60 | chronic 07 | alive    9 | R     45.6 | eps 0.91 | loss 0.6537
+ep  65 | chronic 11 | alive   23 | R    166.2 | eps 0.89 | loss 1.3346
+ep  70 | chronic 19 | alive    1 | R      0.0 | eps 0.88 | loss 1.6431
+ep  75 | chronic 10 | alive    7 | R     34.3 | eps 0.87 | loss 1.2602
+ep  80 | chronic 05 | alive   12 | R     59.8 | eps 0.86 | loss 1.2929
+ep  85 | chronic 07 | alive    7 | R     39.0 | eps 0.85 | loss 1.4309
+ep  90 | chronic 04 | alive   23 | R    170.2 | eps 0.83 | loss 1.0493
+ep  95 | chronic 09 | alive   18 | R    124.6 | eps 0.82 | loss 0.9948
+ep 100 | chronic 18 | alive   11 | R     70.5 | eps 0.81 | loss 1.1041
+ep 105 | chronic 08 | alive   21 | R    139.8 | eps 0.80 | loss 3.122
+ep 110 | chronic 18 | alive   13 | R     72.9 | eps 0.79 | loss 1.7858
+ep 115 | chronic 06 | alive    6 | R     25.2 | eps 0.79 | loss 1.7844
+ep 120 | chronic 16 | alive    3 | R     12.0 | eps 0.77 | loss 2.2447
+ep 125 | chronic 01 | alive    1 | R      0.0 | eps 0.74 | loss 1.848
+ep 130 | chronic 07 | alive    4 | R     19.5 | eps 0.73 | loss 1.8134
+ep 135 | chronic 01 | alive   30 | R    200.0 | eps 0.72 | loss 1.9073
+ep 140 | chronic 17 | alive   18 | R    113.7 | eps 0.70 | loss 3.0796
+ep 145 | chronic 07 | alive   12 | R     74.9 | eps 0.68 | loss 2.3263
+ep 150 | chronic 10 | alive   11 | R     58.6 | eps 0.67 | loss 2.2945
+ep 155 | chronic 02 | alive   11 | R     66.7 | eps 0.65 | loss 2.0125
+ep 160 | chronic 03 | alive    7 | R     44.3 | eps 0.63 | loss 2.5217
+ep 165 | chronic 14 | alive    1 | R      0.0 | eps 0.62 | loss 3.7048
+ep 170 | chronic 02 | alive   20 | R    122.8 | eps 0.60 | loss 3.2421
+ep 175 | chronic 14 | alive   28 | R    185.8 | eps 0.58 | loss 2.8144
+ep 180 | chronic 16 | alive    8 | R     43.5 | eps 0.57 | loss 3.4102
+ep 185 | chronic 16 | alive   11 | R     71.4 | eps 0.54 | loss 3.1768
+ep 190 | chronic 14 | alive   48 | R    336.1 | eps 0.51 | loss 4.3641
+ep 195 | chronic 02 | alive   19 | R    129.9 | eps 0.50 | loss 3.5743
+ep 200 | chronic 17 | alive    1 | R      0.0 | eps 0.48 | loss 5.6878
+ep 205 | chronic 15 | alive   31 | R    218.5 | eps 0.46 | loss 3.5104
+ep 210 | chronic 00 | alive   20 | R    143.3 | eps 0.45 | loss 3.291
+ep 215 | chronic 02 | alive   19 | R    131.2 | eps 0.42 | loss 4.6625
+ep 220 | chronic 16 | alive   29 | R    210.2 | eps 0.40 | loss 3.495
+ep 225 | chronic 05 | alive   42 | R    304.9 | eps 0.36 | loss 4.032
+ep 230 | chronic 13 | alive   24 | R    179.9 | eps 0.31 | loss 4.3886
+ep 235 | chronic 02 | alive   18 | R    117.4 | eps 0.29 | loss 4.1294
+ep 240 | chronic 12 | alive   35 | R    251.6 | eps 0.27 | loss 3.7698
+ep 245 | chronic 11 | alive  106 | R    821.3 | eps 0.23 | loss 4.7391
+ep 250 | chronic 10 | alive    7 | R     40.4 | eps 0.20 | loss 4.5125
+Pesos guardados en: /home/user/planificacion-electrica-robusta-ia/models/dqn_case5.npz

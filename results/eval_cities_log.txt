@@ -1,0 +1,18 @@
+[ 1/16] Bogotá          peak= 28.6MW ren=0.70 | DN 238.6p (1/5) | DQN 600.0p (5/5) | x2.51 | 94.0s
+[ 2/16] Londres         peak= 29.5MW ren=0.42 | DN 412.2p (2/5) | DQN 600.0p (5/5) | x1.46 | 106.6s
+[ 3/16] Nueva York      peak= 29.5MW ren=0.25 | DN 327.0p (2/5) | DQN 600.0p (5/5) | x1.83 | 94.9s
+[ 4/16] Teherán         peak= 29.5MW ren=0.19 | DN 456.2p (3/5) | DQN 600.0p (5/5) | x1.32 | 107.7s
+[ 5/16] Bangkok         peak= 28.9MW ren=0.20 | DN 260.2p (0/5) | DQN 600.0p (5/5) | x2.31 | 87.7s
+[ 6/16] Lima            peak= 28.6MW ren=0.54 | DN 253.6p (1/5) | DQN 600.0p (5/5) | x2.37 | 89.9s
+[ 7/16] Santiago        peak= 29.2MW ren=0.65 | DN 292.4p (1/5) | DQN 600.0p (5/5) | x2.05 | 93.5s
+[ 8/16] Río de Janeiro  peak= 28.9MW ren=0.73 | DN 497.8p (4/5) | DQN 600.0p (5/5) | x1.21 | 112.6s
+[ 9/16] Madrid          peak= 29.5MW ren=0.55 | DN 600.0p (5/5) | DQN 600.0p (5/5) | x1.0 | 124.9s
+[10/16] Toronto         peak= 29.5MW ren=0.36 | DN 253.2p (1/5) | DQN 600.0p (5/5) | x2.37 | 87.9s
+[11/16] Singapur        peak= 28.0MW ren=0.09 | DN 346.4p (1/5) | DQN 600.0p (5/5) | x1.73 | 101.2s
+[12/16] Nairobi         peak= 28.6MW ren=0.95 | DN 600.0p (5/5) | DQN 600.0p (5/5) | x1.0 | 128.1s
+[13/16] Johannesburgo   peak= 29.5MW ren=0.26 | DN 465.0p (3/5) | DQN 600.0p (5/5) | x1.29 | 124.5s
+[14/16] Hanói           peak= 29.2MW ren=0.50 | DN 564.6p (4/5) | DQN 600.0p (5/5) | x1.06 | 124.8s
+[15/16] Casablanca      peak= 28.9MW ren=0.48 | DN 384.8p (2/5) | DQN 600.0p (5/5) | x1.56 | 104.9s
+[16/16] Dar es Salaam   peak= 28.6MW ren=0.50 | DN 600.0p (5/5) | DQN 600.0p (5/5) | x1.0 | 126.4s
+
+Guardado: /home/user/planificacion-electrica-robusta-ia/results/rl_city_eval.json  (1710s totales)
